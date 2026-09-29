@@ -1,0 +1,15 @@
+/home/skqu/Hentet/test/AgentTestRepo/bin/Debug/net10.0/AgentTestRepo
+/home/skqu/Hentet/test/AgentTestRepo/bin/Debug/net10.0/AgentTestRepo.deps.json
+/home/skqu/Hentet/test/AgentTestRepo/bin/Debug/net10.0/AgentTestRepo.runtimeconfig.json
+/home/skqu/Hentet/test/AgentTestRepo/bin/Debug/net10.0/AgentTestRepo.dll
+/home/skqu/Hentet/test/AgentTestRepo/bin/Debug/net10.0/AgentTestRepo.pdb
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.GeneratedMSBuildEditorConfig.editorconfig
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.AssemblyInfoInputs.cache
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.AssemblyInfo.cs
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.csproj.CoreCompileInputs.cache
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.sourcelink.json
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.dll
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/refint/AgentTestRepo.dll
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.pdb
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/AgentTestRepo.genruntimeconfig.cache
+/home/skqu/Hentet/test/AgentTestRepo/obj/Debug/net10.0/ref/AgentTestRepo.dll
